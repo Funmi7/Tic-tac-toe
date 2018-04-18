@@ -16,6 +16,7 @@
         android:layout_marginTop="16dp"
         android:gravity="center_horizontal"
         android:text="@string/tictactoe"
+        android:textColor="#F50057"
         android:textSize="30sp"
         android:textStyle="bold"
         app:fontFamily="serif" />
